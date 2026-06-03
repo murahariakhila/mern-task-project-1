@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <h1>My Products</h1>
+      <h1>ELECTRONICS STORE</h1>
 
       {products.map((product) => (
         <ProductCard
